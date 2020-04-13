@@ -1,6 +1,6 @@
 # SampleApp for AWS X-Ray Go SDK
 
-This repository contains sample app to show the tracing use case of aws-xray-sdk-go. The SampleApp contains example of tracing aws sdk calls like upload a file to S3, sending a message using SQS. Moreover, it contains tracing a downstream HTTP request, tracing SQL request (creating, deleting table and populating data inside that table) and tracing upstream HTTP request. 
+This repository contains sample app to show the tracing use case of aws-xray-sdk-go. The SampleApp contains example of tracing aws sdk calls like list all SQS queues and list all s3 buckets. Moreover, it contains tracing SQL request (creating, deleting table and populating data inside that table) and tracing upstream HTTP request. 
 
 ## Prerequirements
 
