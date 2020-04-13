@@ -1,4 +1,4 @@
-module SampleApp
+module src/main.go
 
 require (
 	github.com/aws/aws-sdk-go v1.28.2
