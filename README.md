@@ -21,14 +21,9 @@ To clone the SampleApp in your environment,
 ```
 git clone https://github.com/aws-samples/aws-xray-sdk-go-sample.git
 ```
-To build the SampleApp,
+To run the SampleApp with environment variable set up,
 ```
-go build -o SampleApp src/main.go
-```
-
-To run the SampleApp,
-```
-./SampleApp
+DSN_STRING="username:password@tcp(127.0.0.1:3306)/dbname" go run src/main.go
 ```
 ## Opening Issues
 
