@@ -19,7 +19,7 @@ The SampleApp for AWS X-Ray Go SDK is compatible with Go 1.9 and above. Go modul
 
 To clone the SampleApp in your environment,
 ```
-git clone SampleAppURL
+git clone https://github.com/aws-samples/aws-xray-sdk-go-sample.git
 ```
 To build the SampleApp,
 ```
